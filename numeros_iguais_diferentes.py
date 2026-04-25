@@ -1,3 +1,5 @@
+#Programa verificar se números introduzidos são iguais ou diferentes
+
 num1 = int(input("Introduz número 1:"))
 num2 = int(input("Introduz número 2:"))
 print()
